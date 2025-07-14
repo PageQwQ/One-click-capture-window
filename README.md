@@ -15,7 +15,7 @@ This program allows you to modify specific code snippets to change the theme.
 
 **Themes**
 
-![screen](screen.png)
+![screen](theme.png)
 
 ## How to use
 
